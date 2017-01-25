@@ -1,0 +1,4 @@
+class ParkingsBalance < ApplicationRecord
+
+	
+end
